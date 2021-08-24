@@ -1,0 +1,282 @@
+1629725088049	geckodriver	INFO	Listening on 127.0.0.1:63287
+1629725095016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileyOMfK4"
+1629725096302	Marionette	INFO	Marionette enabled
+1629725097995	Marionette	INFO	Listening on port 63296
+1629725098249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629725099803	Marionette	INFO	Stopped listening on port 63296
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=07754d3943ab7476e72e95cc7b0ec67c, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js?ver=8VnXan, line 1: Error: Loading chunk 93 failed.
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js?ver=8VnXan, line 1: Error: Loading chunk 40 failed.
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js?ver=8VnXan, line 1: Error: Loading chunk 44 failed.
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 718: TypeError: captureCallback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 15064, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1629725881097	geckodriver	INFO	Listening on 127.0.0.1:56968
+1629725888604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile8MHfGQ"
+1629725889604	Marionette	INFO	Marionette enabled
+1629725891201	Marionette	INFO	Listening on port 49889
+1629725891315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=e25068e9a6b996ca05627f95f274bdcc, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629725927436	Marionette	INFO	Stopped listening on port 49881629725932916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilegaJEVb"
+1629725933407	Marionette	INFO	Marionette enabled
+1629725934593	Marionette	INFO	Listening on port 63611
+1629725934971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=e25068e9a6b996ca05627f95f274bdcc, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/mage/calendar.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/styles-m.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/Mgt_DeveloperToolbar/css/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/mage/gallery/gallery.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/styles-l.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/print.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Nunito:wght@400;700;800&display=swap without a browsingContextID set
+1629726055155	Marionette	INFO	Stopped listening on port 63611629726061720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilerGYYdF"
+1629726062216	Marionette	INFO	Marionette enabled
+1629726063430	Marionette	INFO	Listening on port 54734
+1629726063778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629726110298	Marionette	INFO	Stopped listening on port 54734
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629726115755	geckodriver	INFO	Listening on 127.0.0.1:54165
+1629726122452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileZLkLD8"
+1629726122930	Marionette	INFO	Marionette enabled
+1629726124165	Marionette	INFO	Listening on port 54173
+1629726124516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://elearning.telkomuniversity.ac.id/lms/lib/javascript.php/1619064750/lib/requirejs/require.min.js, line 1: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/mage/calendar.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/styles-m.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/Mgt_DeveloperToolbar/css/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/mage/gallery/gallery.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/styles-l.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/print.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Nunito:wght@400;700;800&display=swap without a browsingContextID set
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rajasusu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rajasusu.com"
+console.warn: "Resource  of root-node was not found."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/mage/calendar.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/styles-m.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/Mgt_DeveloperToolbar/css/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/mage/gallery/gallery.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/styles-l.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/css/print.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Nunito:wght@400;700;800&display=swap without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629727063011	Marionette	INFO	Stopped listening on port 54173
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+essage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nette	INFO	Listening on port 59150
+1629726780983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=e25068e9a6b996ca05627f95f274bdcc, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629727062881	Marionette	INFO	Stopped listening on port 59150
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofileHaLvFb"
+1629726964531	Marionette	INFO	Marionette enabled
+1629726965885	Marionette	INFO	Listening on port 61375
+1629726965987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629726979312	Marionette	INFO	Stopped listening on port 61375
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629727057057	geckodriver	INFO	Listening on 127.0.0.1:61472
+1629727064440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilemEueIG"
+1629727064984	Marionette	INFO	Marionette enabled
+1629727066184	Marionette	INFO	Listening on port 61480
+1629727066512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=d340cb04398ba334a2787dcf8dd2a0fe, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629727133231	Marionette	INFO	Stopped listening on port 61481629727138830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileM5XUOW"
+1629727139349	Marionette	INFO	Marionette enabled
+1629727140846	Marionette	INFO	Listening on port 58451
+1629727140891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629727205101	Marionette	INFO	Stopped listening on port 58451629727209249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileznFLA6"
+1629727209839	Marionette	INFO	Marionette enabled
+1629727211188	Marionette	INFO	Listening on port 50154
+1629727211317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=d340cb04398ba334a2787dcf8dd2a0fe, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/key-codes
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: jquery-ui-modules/core
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: mage/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: js/mixin/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/outer_click
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/fadeVisible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/staticChecked
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/simple-checked
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bind-html
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/tooltip
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/color-picker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: jquery-ui-modules/mouse
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout-repeat
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout-fast-foreach
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/template/observable_source
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/template/renderer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/console-logger
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/resizable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/i18n
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/scope
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/range
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/mage-init
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/keyboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/optgroup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/datepicker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: mage/utils/wrapper
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/events
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: es6-collections
+http://requirejs.org/docs/errors.html#scripterror
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 362))
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/customer-data
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Persistent/js/view/customer-data-mixin
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: mage/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: js/mixin/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/model/breadcrumb-list
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: magnifier/magnifier
+http://requirejs.org/docs/errors.html#scripterror
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 362))
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/mage/gallery/gallery.js, line 313: TypeError: this.settings.fotoramaApi is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+JavaScript error: https://rajasusu.com/pub/static/version1621598947/frontend/theme/rajasusu/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/invalidation-rules/website-rule
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629730189079	Marionette	INFO	Stopped listening on port 50154
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]

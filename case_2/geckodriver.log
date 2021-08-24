@@ -1,0 +1,781 @@
+1629730186611	geckodriver	INFO	Listening on 127.0.0.1:56236
+1629730194742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileQbRlIz"
+1629730195429	Marionette	INFO	Marionette enabled
+1629730196774	Marionette	INFO	Listening on port 61177
+1629730196804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629730279891	Marionette	INFO	Stopped listening on port 61171629730285840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileLP5d3A"
+1629730286393	Marionette	INFO	Marionette enabled
+1629730287727	Marionette	INFO	Listening on port 65141
+1629730287911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629730991694	Marionette	INFO	Stopped listening on port 65141
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messag1629730992704	Marionette	INFO	Listening on port 53997
+1629730992882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629731072038	Marionette	INFO	Stopped listening on port 53991629731077926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileAvMQqe"
+1629731078405	Marionette	INFO	Marionette enabled
+1629731079636	Marionette	INFO	Listening on port 60118
+1629731079969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629731128754	Marionette	INFO	Stopped listening on port 60111629731132914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileLf3JrD"
+1629731133406	Marionette	INFO	Marionette enabled
+1629731134634	Marionette	INFO	Listening on port 56741
+1629731134973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629731172583	Marionette	INFO	Stopped listening on port 56741629731178703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileqSNa9d"
+1629731179206	Marionette	INFO	Marionette enabled
+1629731180434	Marionette	INFO	Listening on port 55097
+1629731180768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1629731265805	Marionette	INFO	Stopped listening on port 55091629731272621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileY92xsS"
+1629731273158	Marionette	INFO	Marionette enabled
+1629731274753	Marionette	INFO	Listening on port 53651
+1629731274813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629731405463	Marionette	INFO	Stopped listening on port 53651629731410068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilenSJBID"
+1629731410598	Marionette	INFO	Marionette enabled
+1629731411783	Marionette	INFO	Listening on port 52572
+1629731412113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.categories.js, line 184: TypeError: $.plot is undefined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.time.js, line 404: TypeError: $.plot is undefined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.watermark.js, line 223: TypeError: $.plot is undefined
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream, line 289: TypeError: window.$crisp is undefined
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+1629731564590	Marionette	INFO	Stopped listening on port 52571629731571214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile1aYyNd"
+1629731571904	Marionette	INFO	Marionette enabled
+1629731573282	Marionette	INFO	Listening on port 50595
+1629731573364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/assets/js/jquery.requestanimationframe.min.js, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery-ui.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.number.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.easing.1.3.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.textarea_autosize.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dropdown.min.js, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/readmore.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/tooltipster.bundle.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dragtable.js, line 587: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.tooltip.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.js, line 6: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.categories.js, line 190: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.time.js, line 417: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.crosshair.js, line 176: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.watermark.js, line 229: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/pagination.min.js, line 11: Error: Pagination: Pagination requires jQuery.
+JavaScript error: https://stockbit.com/assets/js/jquery.mentionsInput.min.js, line 25: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange.js, line 124: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange_ext.js, line 10: ReferenceError: $ is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.ui.touch-punch.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.countdown.min.js, line 22: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/crispScript.min.js, line 78: ReferenceError: moment is not defined
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream, line 289: TypeError: window.$crisp is undefined
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js?ver=8VnXan, line 1: ReferenceError: $ is not defined
+1629731629084	Marionette	INFO	Stopped listening on port 50591629731634718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile18MFgg"
+1629731635230	Marionette	INFO	Marionette enabled
+1629731636548	Marionette	INFO	Listening on port 62672
+1629731636770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629731688253	Marionette	INFO	Stopped listening on port 62671629731694003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile1s6FWk"
+1629731694576	Marionette	INFO	Marionette enabled
+1629731695794	Marionette	INFO	Listening on port 52575
+1629731696067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/assets/js/jquery.requestanimationframe.min.js, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery-ui.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.number.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.textarea_autosize.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dropdown.min.js, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/readmore.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/tooltipster.bundle.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dragtable.js, line 587: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.tooltip.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.categories.js, line 190: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.time.js, line 417: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.crosshair.js, line 176: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.watermark.js, line 229: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/pagination.min.js, line 11: Error: Pagination: Pagination requires jQuery.
+JavaScript error: https://stockbit.com/assets/js/jquery.mentionsInput.min.js, line 25: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange.js, line 124: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange_ext.js, line 10: ReferenceError: $ is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.ui.touch-punch.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.countdown.min.js, line 22: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/crispScript.min.js, line 78: ReferenceError: moment is not defined
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream, line 289: TypeError: window.$crisp is undefined
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js?ver=8VnXan, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1629732535301	Marionette	INFO	Stopped listening on port 52575
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629732539243	geckodriver	INFO	Listening on 127.0.0.1:64389
+1629732545907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilepyvCtO"
+1629732546419	Marionette	INFO	Marionette enabled
+1629732547612	Marionette	INFO	Listening on port 60597
+1629732547976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629732690192	Marionette	INFO	Stopped listening on port 60591629732694230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilenIGQVu"
+1629732694757	Marionette	INFO	Marionette enabled
+1629732696056	Marionette	INFO	Listening on port 61203
+1629732696287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/assets/js/jquery.requestanimationframe.min.js, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery-ui.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.number.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.easing.1.3.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.textarea_autosize.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dropdown.min.js, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/readmore.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/tooltipster.bundle.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dragtable.js, line 587: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.tooltip.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.categories.js, line 190: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.time.js, line 417: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.crosshair.js, line 176: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.watermark.js, line 229: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/pagination.min.js, line 11: Error: Pagination: Pagination requires jQuery.
+JavaScript error: https://stockbit.com/assets/js/jquery.mentionsInput.min.js, line 25: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange.js, line 124: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange_ext.js, line 10: ReferenceError: $ is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.ui.touch-punch.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.countdown.min.js, line 22: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/crispScript.min.js, line 78: ReferenceError: moment is not defined
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream, line 289: TypeError: window.$crisp is undefined
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js?ver=8VnXan, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629732746942	Marionette	INFO	Stopped listening on port 61203
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nette	INFO	Listening on port 60354
+1629732746340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/assets/js/jquery.requestanimationframe.min.js, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery-ui.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.number.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.easing.1.3.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.textarea_autosize.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dropdown.min.js, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/readmore.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/tooltipster.bundle.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.dragtable.js, line 587: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.tablesorter.combined.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.tooltip.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.js, line 6: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.categories.js, line 190: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.time.js, line 417: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.crosshair.js, line 176: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/flot/jquery.flot.watermark.js, line 229: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/pagination.min.js, line 11: Error: Pagination: Pagination requires jQuery.
+JavaScript error: https://stockbit.com/assets/js/jquery.mentionsInput.min.js, line 25: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange.js, line 124: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/attrchange_ext.js, line 10: ReferenceError: $ is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.ui.touch-punch.min.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://stockbit.com/assets/js/jquery.countdown.min.js, line 22: ReferenceError: jQuery is not defined
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js?ver=8VnXan, line 1: ReferenceError: $ is not defined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629733909913	Marionette	INFO	Stopped listening on port 60354
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629733918748	geckodriver	INFO	Listening on 127.0.0.1:60145
+1629733926055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile6kwEA7"
+1629733926622	Marionette	INFO	Marionette enabled
+1629733927940	Marionette	INFO	Listening on port 63865
+1629733928114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629734385114	Marionette	INFO	Stopped listening on port 63861629734390990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileiVdWG4"
+1629734391487	Marionette	INFO	Marionette enabled
+1629734392936	Marionette	INFO	Listening on port 50038
+1629734393048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629734717002	Marionette	INFO	Stopped listening on port 50038
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofileAiybky"
+1629734548790	Marionette	INFO	Marionette enabled
+1629734550042	Marionette	INFO	Listening on port 50184
+1629734550350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629735641615	Marionette	INFO	Stopped listening on port 50181629735646365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileLTvv64"
+1629735646898	Marionette	INFO	Marionette enabled
+1629735648208	Marionette	INFO	Listening on port 60129
+1629735648426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629735747825	Marionette	INFO	Stopped listening on port 60129
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629735752168	geckodriver	INFO	Listening on 127.0.0.1:63368
+1629735759044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile24Be3G"
+1629735759563	Marionette	INFO	Marionette enabled
+1629735760717	Marionette	INFO	Listening on port 63377
+1629735761090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629735832876	Marionette	INFO	Stopped listening on port 63371629735838903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileDngONK"
+1629735839440	Marionette	INFO	Marionette enabled
+1629735840839	Marionette	INFO	Listening on port 63526
+1629735840969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://shopee.co.id"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1447:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1518:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://shopee.co.id"
+1629736265791	Marionette	INFO	Stopped listening on port 63526
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629736271600	geckodriver	INFO	Listening on 127.0.0.1:50668
+1629736278499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofiley9YeQS"
+1629736279051	Marionette	INFO	Marionette enabled
+1629736280236	Marionette	INFO	Listening on port 50676
+1629736280569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629736303142	Marionette	INFO	Stopped listening on port 50671629736309305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilelwjXUX"
+1629736309809	Marionette	INFO	Marionette enabled
+1629736311107	Marionette	INFO	Listening on port 50835
+1629736311352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1629736615070	Marionette	INFO	Stopped listening on port 50831629736621017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileM2hQRF"
+1629736621530	Marionette	INFO	Marionette enabled
+1629736622722	Marionette	INFO	Listening on port 57151
+[Parent 6832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629736623077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629736643053	Marionette	INFO	Stopped listening on port 57151629736649082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilezmVNeW"
+1629736649615	Marionette	INFO	Marionette enabled
+1629736650794	Marionette	INFO	Listening on port 57295
+1629736651130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=f068c09c3598fc6b64c7274e62909235, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1629736713041	Marionette	INFO	Stopped listening on port 57291629736719030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileQhHRvY"
+1629736719555	Marionette	INFO	Marionette enabled
+1629736720746	Marionette	INFO	Listening on port 57452
+1629736721081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 325: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 241 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1629737030681	Marionette	INFO	Stopped listening on port 57452
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629789447780	geckodriver	INFO	Listening on 127.0.0.1:50348
+1629789454933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilesxwjke"
+1629789456105	Marionette	INFO	Marionette enabled
+1629789457808	Marionette	INFO	Listening on port 54270
+1629789458148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=8c445343cee438da9410b4261634cb59, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2251:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629791190770	Marionette	INFO	Stopped listening on port 54271629791197648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile4CBI1P"
+1629791198324	Marionette	INFO	Marionette enabled
+1629791199599	Marionette	INFO	Listening on port 61776
+1629791199745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629791339514	Marionette	INFO	Stopped listening on port 61771629791345576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilewKCixG"
+1629791346092	Marionette	INFO	Marionette enabled
+1629791347311	Marionette	INFO	Listening on port 51581
+1629791347621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629791575916	Marionette	INFO	Stopped listening on port 51581
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nette	INFO	Listening on port 49332
+1629791472730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629791574848	Marionette	INFO	Stopped listening on port 49331629791580708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileL3Q9WL"
+1629791581290	Marionette	INFO	Marionette enabled
+1629791582573	Marionette	INFO	Listening on port 50323
+1629791582789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+1629791726270	Marionette	INFO	Stopped listening on port 50323
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629791729722	geckodriver	INFO	Listening on 127.0.0.1:63217
+1629791736466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileWvC3Qg"
+1629791737012	Marionette	INFO	Marionette enabled
+1629791738316	Marionette	INFO	Listening on port 50698
+1629791738541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629791902603	Marionette	INFO	Stopped listening on port 50691629791907470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileh9yW2b"
+1629791907992	Marionette	INFO	Marionette enabled
+1629791909222	Marionette	INFO	Listening on port 59257
+1629791909540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+1629791958384	Marionette	INFO	Stopped listening on port 59251629791963809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileBPTLz2"
+1629791964346	Marionette	INFO	Marionette enabled
+1629791965483	Marionette	INFO	Listening on port 57968
+1629791965865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+1629792120174	Marionette	INFO	Stopped listening on port 57968
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nette	INFO	Listening on port 61375
+1629792087075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=a0222dab3beb61cd2f2a69f7f6bf1133, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+1629792119201	Marionette	INFO	Stopped listening on port 61375
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629792123785	geckodriver	INFO	Listening on 127.0.0.1:53351
+1629792130542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileSf2nKc"
+1629792131082	Marionette	INFO	Marionette enabled
+1629792132284	Marionette	INFO	Listening on port 55434
+1629792132610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629792171055	Marionette	INFO	Stopped listening on port 55434
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629792174242	geckodriver	INFO	Listening on 127.0.0.1:60682
+1629792181093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileA67EBc"
+1629792181611	Marionette	INFO	Marionette enabled
+1629792182875	Marionette	INFO	Listening on port 50078
+1629792183149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/bundle.39c73f8a954d4032de85.css without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1629792239084	Marionette	INFO	Stopped listening on port 50071629792243636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofiletOPTHU"
+1629792244153	Marionette	INFO	Marionette enabled
+1629792245331	Marionette	INFO	Listening on port 57633
+1629792245697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629794851802	Marionette	INFO	Stopped listening on port 57633
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://elearning.telkomuniversity.ac.id/lms/lib/javascript.php/1619064750/lib/requirejs/require.min.js, line 1: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+1629792997419	Marionette	INFO	Stopped listening on port 59271629793002841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileiWPfGj"
+1629793003421	Marionette	INFO	Marionette enabled
+1629793004720	Marionette	INFO	Listening on port 60419
+1629793004917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://elearning.telkomuniversity.ac.id/lms/lib/javascript.php/1619064750/lib/requirejs/require.min.js, line 1: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+1629793125526	Marionette	INFO	Stopped listening on port 60419
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629793129970	geckodriver	INFO	Listening on 127.0.0.1:61788
+1629793136824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilewgOU8y"
+1629793137371	Marionette	INFO	Marionette enabled
+1629793138630	Marionette	INFO	Listening on port 63442
+1629793138912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: FB is not defined
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/login line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629794850435	Marionette	INFO	Stopped listening on port 63442
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofilePI3VUt"
+1629794767127	Marionette	INFO	Marionette enabled
+1629794768638	Marionette	INFO	Listening on port 60032
+1629794769070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=365ba5ae7c92d706aac0e0963d7a08d4, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+JavaScript error: https://elearning.telkomuniversity.ac.id/lms/lib/javascript.php/1619064750/lib/requirejs/require.min.js, line 1: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+1629794847691	Marionette	INFO	Stopped listening on port 60031629794854219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilev8hshQ"
+1629794854824	Marionette	INFO	Marionette enabled
+1629794856145	Marionette	INFO	Listening on port 57127
+1629794856293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=a0222dab3beb61cd2f2a69f7f6bf1133, line 59: uncaught exception: Error: You need to call FB.init() with App ID first.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629819335339	Marionette	INFO	Stopped listening on port 57127
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 11748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629819411105	geckodriver	INFO	Listening on 127.0.0.1:49909
+1629819418079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileRic6x3"
+1629819418795	Marionette	INFO	Marionette enabled
+1629819420223	Marionette	INFO	Listening on port 49918
+1629819420253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+1629820071634	Marionette	INFO	Stopped listening on port 49918
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofileMvFFwG"
+1629819672736	Marionette	INFO	Marionette enabled
+1629819673905	Marionette	INFO	Listening on port 58233
+1629819674244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://stockbit.com/#/stream line 242 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF, line 327: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1629824261473	Marionette	INFO	Stopped listening on port 58233
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
